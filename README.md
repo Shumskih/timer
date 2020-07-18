@@ -1,11 +1,11 @@
 # Timer
 
-'Timer' is a native javascript function for creating timer on a web page. It takes one parameter - date in format "2020-07-11". 
+'Timer' is a native javascript module for creating timer on a web page. It takes one parameter - date in format "2020-07-11".
 
 Example of usage:
 
 ```javascript
-timer('2020-07-11');
+timer('.timer', '2020-07-20');
 ```
 
 Example of html markup:
